@@ -30,7 +30,7 @@ body{
 }
 
 .left{
-    background-image: url(logo\ insta.png);
+    background-image: url(insta.png);
     background-repeat: no-repeat;
     width: 450px;
     height: 600px;
@@ -226,5 +226,6 @@ margin-bottom: 20px;
     .right{
         padding: 0 20px;
     }
+
 
 }
